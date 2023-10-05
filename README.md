@@ -16,7 +16,7 @@ original link: https://github.com/ddfan/balsa
 
 ### Citation
 
-Please go to page :  https://github.com/ddfan/balsa and cite
+Please go to page :  https://github.com/ddfan/balsa and cite.
 
 ```
 @article{fan2019bayesian,
