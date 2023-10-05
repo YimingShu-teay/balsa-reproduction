@@ -1,0 +1,1 @@
+This is a reproduction of the BALSA code with the ROS framework removed, enabling it to be executed on Windows platforms.
